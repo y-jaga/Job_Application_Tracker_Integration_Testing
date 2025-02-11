@@ -1,0 +1,5 @@
+.env
+.env.test
+node_modules/
+db/job_application_test.sqlite
+db/job_application.sqlite
